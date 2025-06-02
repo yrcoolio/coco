@@ -1,40 +1,19 @@
 {
 	"announcements": [
 		{
-			"id": "urgent----------1748897176763",
-			"title": "测试公告链接功能",
-			"content": "这是一个测试公告，用于验证公告链接点击功能是否正常工作",
-			"type": "info",
-			"priority": "high",
-			"createdAt": "2025-06-02T20:46:16.763Z",
-			"dismissible": true,
-			"showOnce": true,
-			"expiresAt": "2025-06-03T20:46:16.767Z"
-		},
-		{
-			"id": "urgent--------1748897163629",
-			"title": "功能修复完成",
-			"content": "已修复公告点击无法打开链接的问题，以及一次性公告过滤失效的问题。同时添加了公告记录自动清理功能，避免配置文件过度膨胀。",
-			"type": "info",
-			"priority": "normal",
-			"createdAt": "2025-06-02T20:46:03.629Z",
-			"dismissible": true,
-			"showOnce": false
-		},
-		{
-			"id": "----coco-------1748896387154",
-			"title": "欢迎使用coco影视刮削应用",
+			"id": "----------------1748898692061",
+			"title": "欢迎使用功能强大的刮削影视应用",
 			"content": "感谢您选择 CoCo！这是一款专业的影视刮削和管理工具。通过智能刮削、演员管理、标签分类等功能，轻松整理您的影片库。如有问题，欢迎查看帮助文档。祝您使用愉快！",
 			"type": "info",
 			"priority": "normal",
-			"createdAt": "2025-06-02T20:33:07.155Z",
+			"createdAt": "2025-06-02T21:11:32.061Z",
 			"dismissible": true,
 			"showOnce": true,
-			"actionUrl": "https://github.com/yrcoolio/coco/tree/main",
+			"actionUrl": "https://github.com/yrcoolio/coco",
 			"actionText": "查看官网",
-			"expiresAt": "2025-06-02T21:33:07.155Z"
+			"expiresAt": "2025-06-03T21:11:32.065Z"
 		}
 	],
-	"timestamp": "2025-06-02T20:46:16.797Z",
+	"timestamp": "2025-06-02T21:11:33.627Z",
 	"version": "1.0"
 }
