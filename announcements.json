@@ -1,6 +1,16 @@
 {
 	"announcements": [
 		{
+			"id": "urgent---------1748895884151",
+			"title": "测试人性化时间",
+			"content": "测试新的时间输入功能",
+			"type": "info",
+			"priority": "normal",
+			"createdAt": "2025-06-02T20:24:44.151Z",
+			"dismissible": true,
+			"showOnce": false
+		},
+		{
 			"id": "urgent---------1748895701168",
 			"title": "测试一次性公告",
 			"content": "这是一个紧急一次性公告测试",
@@ -22,6 +32,6 @@
 			"showOnce": false
 		}
 	],
-	"timestamp": "2025-06-02T20:21:41.169Z",
+	"timestamp": "2025-06-02T20:24:44.152Z",
 	"version": "1.0"
 }
