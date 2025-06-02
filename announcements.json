@@ -1,6 +1,17 @@
 {
 	"announcements": [
 		{
+			"id": "urgent----------1748892448828",
+			"title": "测试生产环境公告",
+			"content": "这是一条测试生产环境显示的公告",
+			"type": "warning",
+			"priority": "urgent",
+			"createdAt": "2025-06-02T19:27:28.828Z",
+			"dismissible": true,
+			"showOnce": false,
+			"expiresAt": "2025-06-03T07:27:28.829Z"
+		},
+		{
 			"id": "----2-1748892165528",
 			"title": "测试公告2",
 			"content": "这是一条测试的公告2",
@@ -68,6 +79,6 @@
 			"showOnce": false
 		}
 	],
-	"timestamp": "2025-06-02T19:22:47.390Z",
+	"timestamp": "2025-06-02T19:27:28.829Z",
 	"version": "1.0"
 }
