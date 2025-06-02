@@ -1,6 +1,16 @@
 {
 	"announcements": [
 		{
+			"id": "urgent------1748893519435",
+			"title": "清理测试",
+			"content": "清理旧公告，只保留当前测试公告",
+			"type": "info",
+			"priority": "normal",
+			"createdAt": "2025-06-02T19:45:19.435Z",
+			"dismissible": true,
+			"showOnce": false
+		},
+		{
 			"id": "-----1748893269401",
 			"title": "测试公告",
 			"content": "这是一条测试的公告",
@@ -11,6 +21,6 @@
 			"showOnce": false
 		}
 	],
-	"timestamp": "2025-06-02T19:41:11.208Z",
+	"timestamp": "2025-06-02T19:45:19.436Z",
 	"version": "1.0"
 }
