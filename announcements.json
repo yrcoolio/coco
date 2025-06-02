@@ -1,84 +1,16 @@
 {
 	"announcements": [
 		{
-			"id": "urgent----------1748892448828",
-			"title": "测试生产环境公告",
-			"content": "这是一条测试生产环境显示的公告",
-			"type": "warning",
-			"priority": "urgent",
-			"createdAt": "2025-06-02T19:27:28.828Z",
-			"dismissible": true,
-			"showOnce": false,
-			"expiresAt": "2025-06-03T07:27:28.829Z"
-		},
-		{
-			"id": "----2-1748892165528",
-			"title": "测试公告2",
-			"content": "这是一条测试的公告2",
-			"type": "info",
-			"priority": "urgent",
-			"createdAt": "2025-06-02T19:22:45.528Z",
-			"dismissible": true,
-			"showOnce": false
-		},
-		{
-			"id": "-----1748889265892",
+			"id": "-----1748893269401",
 			"title": "测试公告",
 			"content": "这是一条测试的公告",
-			"type": "feature",
-			"priority": "high",
-			"createdAt": "2025-06-02T18:34:25.893Z",
-			"dismissible": true,
-			"showOnce": false
-		},
-		{
-			"id": "-----1748888957518",
-			"title": "测试公告",
-			"content": "这是一条测试的公告",
-			"type": "info",
-			"priority": "high",
-			"createdAt": "2025-06-02T18:29:17.518Z",
-			"dismissible": true,
-			"showOnce": false
-		},
-		{
-			"id": "welcome-2024",
-			"title": "欢迎使用 CoCo 影视管理器！",
-			"content": "感谢您使用 CoCo 影视管理器。这是一个功能强大的日本成人影视刮削和管理工具，支持自动整理、元数据刮削、缩略图生成等功能。",
 			"type": "info",
 			"priority": "normal",
-			"createdAt": "2024-01-01T00:00:00Z",
-			"dismissible": true,
-			"showOnce": false,
-			"actionUrl": "https://github.com/yrcoolio/coco",
-			"actionText": "查看项目"
-		},
-		{
-			"id": "update-v1.2.24",
-			"title": "🎉 版本 v1.2.24 发布",
-			"content": "新版本包含多项改进和修复，建议及时更新以获得最佳体验。",
-			"type": "update",
-			"priority": "high",
-			"minVersion": "1.2.20",
-			"maxVersion": "1.2.23",
-			"createdAt": "2024-01-15T10:00:00Z",
-			"dismissible": true,
-			"showOnce": false,
-			"actionUrl": "https://github.com/yrcoolio/coco/releases/latest",
-			"actionText": "立即更新"
-		},
-		{
-			"id": "maintenance-notice",
-			"title": "🔧 定期维护提醒",
-			"content": "建议定期清理缓存和备份数据库，以保持应用最佳性能。",
-			"type": "maintenance",
-			"priority": "low",
-			"createdAt": "2024-01-10T00:00:00Z",
-			"expiresAt": "2024-12-31T23:59:59Z",
+			"createdAt": "2025-06-02T19:41:09.401Z",
 			"dismissible": true,
 			"showOnce": false
 		}
 	],
-	"timestamp": "2025-06-02T19:27:28.829Z",
+	"timestamp": "2025-06-02T19:41:11.208Z",
 	"version": "1.0"
 }
