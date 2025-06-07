@@ -1,14 +1,17 @@
 {
 	"announcements": [
 		{
-			"id": "urgent-----------1749261015891",
-			"title": "🎉 测试协调机制",
-			"content": "这是一个测试公告，用于验证与应用更新系统的协调机制",
-			"type": "update",
+			"id": "-------1749262545622",
+			"title": "修复已知问题",
+			"content": "对已知问题进行了修复",
+			"type": "info",
 			"priority": "normal",
-			"createdAt": "2025-06-07T01:50:15.891Z",
+			"createdAt": "2025-06-07T02:15:45.622Z",
 			"dismissible": true,
-			"showOnce": false
+			"showOnce": true,
+			"actionUrl": "https://github.com/yrcoolio/coco/releases",
+			"actionText": "查看",
+			"expiresAt": "2025-06-07T05:15:45.623Z"
 		},
 		{
 			"id": "urgent----v1-2-37------1749260130301",
@@ -35,6 +38,6 @@
 			"expiresAt": "2025-06-16T21:18:03.390Z"
 		}
 	],
-	"timestamp": "2025-06-07T01:50:15.892Z",
+	"timestamp": "2025-06-07T02:15:47.782Z",
 	"version": "1.0"
 }
